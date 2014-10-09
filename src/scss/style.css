@@ -32,6 +32,9 @@ position: absolute;
   background-color: rgba(0,0,0,0.5);
 display:none;
 }
+.condensed {
+font-family: 'Open Sans Condensed', sans-serif;
+}
 .big-img-cont{
 position:absolute;
         width:500px;
